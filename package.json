@@ -5,7 +5,7 @@
     "build": "postcss src/styles.css -u postcss-css-variables autoprefixer cssnano -o dist/styles.min.css"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.0",
+    "autoprefixer": "^10.4.7",
     "cssnano": "^5.0.8",
     "postcss": "^8.3.11",
     "postcss-cli": "^9.0.1",
